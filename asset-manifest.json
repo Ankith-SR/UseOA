@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UseOA/static/css/main.db798329.css",
+    "main.js": "/UseOA/static/js/main.cc71c666.js",
+    "static/js/787.5f8b4b68.chunk.js": "/UseOA/static/js/787.5f8b4b68.chunk.js",
+    "index.html": "/UseOA/index.html",
+    "main.db798329.css.map": "/UseOA/static/css/main.db798329.css.map",
+    "main.cc71c666.js.map": "/UseOA/static/js/main.cc71c666.js.map",
+    "787.5f8b4b68.chunk.js.map": "/UseOA/static/js/787.5f8b4b68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.cc71c666.js"
+  ]
+}
